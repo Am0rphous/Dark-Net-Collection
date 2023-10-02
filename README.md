@@ -3,7 +3,9 @@
 All content published here is for educational purposes only. 
 
 <br>
+
 Other collection links:
+
 - [Tor / Darknet Links by DarkNetEye](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network 
 
 <br>
