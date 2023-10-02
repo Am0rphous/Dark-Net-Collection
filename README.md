@@ -3,6 +3,10 @@
 All content published here is for educational purposes only. 
 
 <br>
+Other collection links:
+-[Tor / Darknet Links by DarkNetEye](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network 
+
+<br>
 
 - CIA - http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/index.html
 - CryptoParty's Handbook - http://cryptydfgiaeikh776u6uuyww5wyivno73a7zgusp5nd354bqa2oooid.onion
