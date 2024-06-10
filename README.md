@@ -13,7 +13,7 @@ All content published here is for educational purposes only.
 - CryptoParty's Handbook - http://cryptydfgiaeikh776u6uuyww5wyivno73a7zgusp5nd354bqa2oooid.onion
 - CryptoStorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion
 - Debian's onion hosing list - http://jvgypgbnfyvfopg5msp6nwr2sl2fd6xmnguq35n7rfkw3yungjn2i4yd.onion
-- Dread - http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
+- Dread - http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion - "_onion based free speech platform and forum, where you can post, comment and share among tonnes of different communities._"
 - Darkweblink.com - http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion
 - Hidden Wiki - http://bfbzii56g2brpsg3a6hng45noo4lnby3ux5sgvpd53dyzpu3cre35ryd.onion
   - http://nb5kedhw4zuhpz74znjx2ywqcwtnmyg2wbaameqvlsp7xwsvd4twuqqd.onion
@@ -52,7 +52,7 @@ All content published here is for educational purposes only.
 
 
 ## File sharing
-- BlackCloud - ttp://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion
+- BlackCloud - http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion
 - Secure Drop - http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion
 - The Pirate Bay - http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion
   ### E-books
@@ -100,6 +100,7 @@ All content published here is for educational purposes only.
 - SearX - Private search engine - http://searxingux6na3djgdrcfwutafxmmagerhbieihsgu7sgmjee3u777yd.onion
 - Tor66 - http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion
 - Torch Search Engine - http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion
+
   ### Archives
   - Webpage archive - http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 
