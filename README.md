@@ -14,6 +14,7 @@ All content published here is for educational purposes only.
 - CryptoStorm VPN - http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion
 - Debian's onion hosing list - http://jvgypgbnfyvfopg5msp6nwr2sl2fd6xmnguq35n7rfkw3yungjn2i4yd.onion
 - Dread - http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
+- Darkweblink.com - http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion
 - Hidden Wiki - http://bfbzii56g2brpsg3a6hng45noo4lnby3ux5sgvpd53dyzpu3cre35ryd.onion
   - http://nb5kedhw4zuhpz74znjx2ywqcwtnmyg2wbaameqvlsp7xwsvd4twuqqd.onion
 - OnionLinks - http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion
