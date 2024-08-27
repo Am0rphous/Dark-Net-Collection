@@ -1,7 +1,7 @@
 
 ### Other collection links:
-- [Tor / Darknet Links by DarkNetEye](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network 
-
+- [Darknet Links - DarkNetEye](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network 
+- [Darknet Links - RENANZG](https://github.com/RENANZG/My-Onion-Links)
 <br>
 
 # Dark Net Collection
