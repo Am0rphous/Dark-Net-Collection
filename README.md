@@ -2,6 +2,7 @@
 ### Other collection links:
 - [Darknet Links - DarkNetEye](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network 
 - [Darknet Links - RENANZG](https://github.com/RENANZG/My-Onion-Links)
+- [ Open Source Intelligence Interface for Deep Web Scraping ](https://github.com/josh0xA/darkdump)
 <br>
 
 # Dark Net Collection
