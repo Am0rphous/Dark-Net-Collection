@@ -37,7 +37,7 @@ All content published here is for educational purposes only.
 - Elude - http://eludemailxhnqzfmxehy3bk5guyhlxbunfyhkcksv4gvx6d3wcf6smad.onion
 - Facebook - https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 - Mail2Tor - http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion
-- Onion Mail - http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion
+- Onion Mail - http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion (faq: There is a free plan that offers 50 MB of space and the ability to receive emails but not send them. If not used after 3 months, it will be deleted.)
   - [clearnet] Onion Mail - https://onionmail.org
 - Pad.Riseup.Net - http://kfahv6wfkbezjyg4r6mlhpmieydbebr5vkok5r34ya464gqz6c44bnyd.onion
 - ProtonMail - https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion
